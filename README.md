@@ -1,2 +1,2 @@
-# react-redux-first
+# redux-learn
 Created with CodeSandbox
